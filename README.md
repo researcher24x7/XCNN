@@ -1,4 +1,4 @@
-# XCNN
+# Analyzing Skin Disease Using XCNN (eXtended Convolutional Neural Network)
 
 Skin disease is one of the major concerns for clinicians and researchers. Fungus, germs, allergies,
 and viruses are the main causes of skin diseases. There has always been unsaid competition between
