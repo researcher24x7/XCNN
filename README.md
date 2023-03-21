@@ -11,3 +11,6 @@ The proposed work is designed for multi-classification that takes digital images
 to identify the type of disease. The model has been built on the dataset of the various skin disease
 images. It gives 95.67% accuracy in recognizing the diseases with improved recall, f1-score, and
 precision values compared to other state-of-the-art models.
+
+# Paper Link
+https://www.igi-global.com/gateway/article/309708#pnlRecommendationForm
